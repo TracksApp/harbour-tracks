@@ -26,8 +26,8 @@ Dialog {
                 id: description
                 focus: true
                 width: parent.width
-                placeholderText: "Task description"
-                label: "Task description"
+                placeholderText: qsTr("Task description")
+                label: qsTr("Task description")
 
                 EnterKey.enabled: text.length > 0
                 EnterKey.iconSource: "image://theme/icon-m-enter-next"
@@ -39,8 +39,8 @@ Dialog {
                 width: parent.width
                 height: 300
 
-                placeholderText: "Note"
-                label: "Note"
+                placeholderText: qsTr("Note")
+                label: qsTr("Note")
 
                 EnterKey.iconSource: "image://theme/icon-m-enter-close"
                 EnterKey.onClicked: focus = false
@@ -49,7 +49,7 @@ Dialog {
             ComboBox {
                 id: context
                 width: parent.width
-                label: "Context"
+                label: qsTr("Context")
 
                 menu: ContextMenu {
                     Repeater {
@@ -64,7 +64,7 @@ Dialog {
             ComboBox {
                 id: project
                 width: parent.width
-                label: "Project"
+                label: qsTr("Project")
 
                 menu: ContextMenu {
                     Repeater {
@@ -78,8 +78,8 @@ Dialog {
 
             ValueButton {
                 id: dueDate
-                label: "Due date"
-                value: "Select"
+                label: qsTr("Due date")
+                value: qsTr("Select")
                 width: parent.width
 
                 onClicked: {
@@ -93,8 +93,8 @@ Dialog {
 
             ValueButton {
                 id: showFromDate
-                label: "Show from"
-                value: "Select"
+                label: qsTr("Show from")
+                value: qsTr("Select")
                 width: parent.width
 
                 onClicked: {
@@ -140,11 +140,11 @@ Dialog {
             var m = messageNotification.createObject(null);
             if (doc.status === 201) {
                 m.body = "Task " + description.text + " added to context " + context.value;
-                m.summary = "Tracks task added"
+                m.summary = qsTr("Tracks task added")
             }
             else {
                 m.body = "Adding task failed";
-                m.summary = "Tracks task adding failed"
+                m.summary = qsTr("Tracks task adding failed")
             }
             m.previewSummary = m.summary
             m.previewBody = m.body

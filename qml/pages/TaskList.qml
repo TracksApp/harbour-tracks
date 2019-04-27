@@ -11,7 +11,6 @@ Page {
 
     ListModel {
         id: tasklist;
-        ListElement { description: "Refresh the list before using" }
     }
 
     // To enable PullDownMenu, place our content in a SilicaFlickable
