@@ -24,6 +24,8 @@ ApplicationWindow
 
     ListModel { id: contextList }
 
+    ListModel { id: projectList }
+
     function request(params, method, data, callback) {
         var xhr = new XMLHttpRequest();
         xhr.onreadystatechange = (function(mxhr) {
@@ -80,5 +82,45 @@ ApplicationWindow
                 return value.contextId;
             }
         }
+    }
+
+    function getProjectsFromTracks() {
+        request("projects.xml", "get", "", function(doc) {
+            console.log(doc.status);
+            var e = doc.responseXML.documentElement;
+            projectList.clear();
+            var emptyItem = {}
+            emptyItem.name = "None"
+            emptyItem.projectId = "0"
+            projectList.append(emptyItem);
+            for(var i = 0; i < e.childNodes.length; i++) {
+                if(e.childNodes[i].nodeName === "project") {
+                    var tl = e.childNodes[i];
+                    var item = {}
+                    for(var j = 0; j < tl.childNodes.length; j++) {
+                        if(tl.childNodes[j].nodeName === "name") {
+                            item.name = tl.childNodes[j].childNodes[0].nodeValue;
+                        }
+                        if(tl.childNodes[j].nodeName === "id") {
+                            item.projectId = tl.childNodes[j].childNodes[0].nodeValue;
+                        }
+                    }
+                    projectList.append(item);
+                }
+            }
+        });
+    }
+
+    function getProjectIdFromName(projectName) {
+        for (var i = 0; i < projectList.count; i++) {
+            var value = projectList.get(i);
+            if (projectName === value.name) {
+                return value.projectId;
+            }
+        }
+    }
+
+    Component.onCompleted: {
+        var m = messageNotification.createObject(null);
     }
 }

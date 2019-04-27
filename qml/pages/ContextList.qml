@@ -25,6 +25,7 @@ Page {
                 text: qsTr("Refresh")
                 onClicked: {
                     getContextsFromTracks();
+                    getProjectsFromTracks();
                 }
             }
         }
@@ -57,7 +58,8 @@ Page {
                 Label { text: name }
             }
             Component.onCompleted: {
-              getContextsFromTracks();
+                getContextsFromTracks();
+                getProjectsFromTracks();
             }
         }
     }

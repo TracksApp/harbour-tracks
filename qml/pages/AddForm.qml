@@ -60,14 +60,59 @@ Dialog {
                     }
                 }
             }
+
+            ComboBox {
+                id: project
+                width: parent.width
+                label: "Project"
+
+                menu: ContextMenu {
+                    Repeater {
+                        model: projectList
+                        MenuItem {
+                            text: name
+                        }
+                    }
+                }
+            }
+
+            ValueButton {
+                id: dueDate
+                label: "Due date"
+                value: "Select"
+                width: parent.width
+
+                onClicked: {
+                    var dialog = pageStack.push("Sailfish.Silica.DatePickerDialog", {date: new Date()})
+
+                    dialog.accepted.connect(function() {
+                        value = dialog.date.toLocaleDateString(Qt.locale("en-GB"), "yyyy-MM-dd")
+                    })
+                }
+            }
+
+            ValueButton {
+                id: showFromDate
+                label: "Show from"
+                value: "Select"
+                width: parent.width
+
+                onClicked: {
+                    var dialog = pageStack.push("Sailfish.Silica.DatePickerDialog", {date: new Date()})
+
+                    dialog.accepted.connect(function() {
+                        value = dialog.date.toLocaleDateString(Qt.locale("en-GB"), "yyyy-MM-dd")
+                    })
+                }
+            }
         }
     }
 
     onAccepted: {
-        addTaskToTracks(description.text)
+        addTaskToTracks()
     }
 
-    function addTaskToTracks(description) {
+    function addTaskToTracks() {
         var contextId = getContextIdFromName(context.value);
 
         /*var parser = new Qt.DOMParser();
@@ -77,10 +122,24 @@ Dialog {
         var s = new XMLSerializer();
         console.log(s.serializeToString(req));*/
 
-        request("todos.xml", "post", "<todo><description>" + description + "</description><notes>" + note.text + "</notes><context_id>" + contextId + "</context_id></todo>", function(doc) {
+        var requestData = "<todo>"
+        if (dueDate.value !== "Select") {
+            requestData = requestData + "<due type=\"dateTime\">" + dueDate.value + "</due>"
+        }
+        if (showFromDate.value !== "Select") {
+            requestData = requestData + "<show-from type=\"dateTime\">" + showFromDate.value + "</show-from>"
+        }
+        if (project.value !== "None") {
+            requestData = requestData + "<project-id>" + getProjectIdFromName(project.value) + "</project-id>"
+        }
+
+        requestData = requestData + "<description>" + description.text + "</description><notes>" + note.text + "</notes><context_id>" + contextId + "</context_id></todo>"
+        console.log(requestData);
+
+        request("todos.xml", "post", requestData, function(doc) {
             var m = messageNotification.createObject(null);
             if (doc.status === 201) {
-                m.body = "Task " + description + " added to context " + context.value;
+                m.body = "Task " + description.text + " added to context " + context.value;
                 m.summary = "Tracks task added"
             }
             else {
