@@ -54,7 +54,6 @@ ApplicationWindow
 
     function getContextsFromTracks() {
         request("contexts.xml", "get", "", function(doc) {
-            console.log(doc.status);
             var e = doc.responseXML.documentElement;
             contextList.clear();
             for(var i = 0; i < e.childNodes.length; i++) {
@@ -86,11 +85,10 @@ ApplicationWindow
 
     function getProjectsFromTracks() {
         request("projects.xml", "get", "", function(doc) {
-            console.log(doc.status);
             var e = doc.responseXML.documentElement;
             projectList.clear();
             var emptyItem = {}
-            emptyItem.name = "None"
+            emptyItem.name = qsTr("None")
             emptyItem.projectId = "0"
             projectList.append(emptyItem);
             for(var i = 0; i < e.childNodes.length; i++) {

@@ -123,27 +123,26 @@ Dialog {
         console.log(s.serializeToString(req));*/
 
         var requestData = "<todo>"
-        if (dueDate.value !== "Select") {
+        if (dueDate.value !== qsTr("Select")) {
             requestData = requestData + "<due type=\"dateTime\">" + dueDate.value + "</due>"
         }
-        if (showFromDate.value !== "Select") {
+        if (showFromDate.value !== qsTr("Select")) {
             requestData = requestData + "<show-from type=\"dateTime\">" + showFromDate.value + "</show-from>"
         }
-        if (project.value !== "None") {
+        if (project.value !== qsTr("None")) {
             requestData = requestData + "<project-id>" + getProjectIdFromName(project.value) + "</project-id>"
         }
 
         requestData = requestData + "<description>" + description.text + "</description><notes>" + note.text + "</notes><context_id>" + contextId + "</context_id></todo>"
-        console.log(requestData);
 
         request("todos.xml", "post", requestData, function(doc) {
             var m = messageNotification.createObject(null);
             if (doc.status === 201) {
-                m.body = "Task " + description.text + " added to context " + context.value;
+                m.body = qsTr("Task %1 added to context %2.").arg(description.text).arg(context.value);
                 m.summary = qsTr("Tracks task added")
             }
             else {
-                m.body = "Adding task failed";
+                m.body = qsTr("Adding task %1 failed.").arg(description.text);
                 m.summary = qsTr("Tracks task adding failed")
             }
             m.previewSummary = m.summary

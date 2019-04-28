@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="fi_FI">
+<TS version="2.1" language="fi_FI">
 <context>
     <name>AddForm</name>
     <message>
@@ -38,6 +38,8 @@
     <message>
         <location filename="../qml/pages/AddForm.qml" line="82"/>
         <location filename="../qml/pages/AddForm.qml" line="97"/>
+        <location filename="../qml/pages/AddForm.qml" line="126"/>
+        <location filename="../qml/pages/AddForm.qml" line="129"/>
         <source>Select</source>
         <translation>Valitse</translation>
     </message>
@@ -47,12 +49,27 @@
         <translation>Näytä alkaen</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="143"/>
+        <location filename="../qml/pages/AddForm.qml" line="132"/>
+        <source>None</source>
+        <translation>Ei mikään</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AddForm.qml" line="141"/>
+        <source>Task %1 added to context %2.</source>
+        <translation>Tehtävä %1 lisätty asiayhteyteen %2.</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AddForm.qml" line="142"/>
         <source>Tracks task added</source>
         <translation>Tracks-tehtävä lisätty</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="147"/>
+        <location filename="../qml/pages/AddForm.qml" line="145"/>
+        <source>Adding task %1 failed.</source>
+        <translation>Tehtävän %1 lisääminen epäonnistui.</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AddForm.qml" line="146"/>
         <source>Tracks task adding failed</source>
         <translation>Tracks-tehtävän lisääminen epäonnistui</translation>
     </message>
@@ -145,6 +162,14 @@
         <location filename="../qml/pages/TaskList.qml" line="39"/>
         <source>Check your settings</source>
         <translation>Tarkista asetuksesi</translation>
+    </message>
+</context>
+<context>
+    <name>harbour-tracks</name>
+    <message>
+        <location filename="../qml/harbour-tracks.qml" line="93"/>
+        <source>None</source>
+        <translation>Ei mikään</translation>
     </message>
 </context>
 </TS>
