@@ -105,7 +105,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Token or password</source>
+        <source>Password</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -125,6 +125,26 @@
     </message>
     <message>
         <source>Check your settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Marking as done</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Task %1 set done.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tracks task set done</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting task %1 done failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tracks task setting failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

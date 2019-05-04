@@ -39,8 +39,8 @@ Dialog {
             PasswordField {
                 id: tokenField
                 width: parent.width
-                label: qsTr("Token or password")
-                placeholderText: qsTr("Token or password")
+                label: qsTr("Password")
+                placeholderText: qsTr("Password")
                 text: settings.token
 
                 EnterKey.enabled: text.length > 0

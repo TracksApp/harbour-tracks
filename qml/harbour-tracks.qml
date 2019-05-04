@@ -39,15 +39,13 @@ ApplicationWindow
         }
         url = url + params;
 
-        if(method === "post") {
-            xhr.open('POST', url, true);
-            xhr.setRequestHeader("Content-Type", "text/xml");
-            xhr.setRequestHeader("Authorization", "Basic " + Qt.btoa(settings.username + ":" + settings.token));
+        xhr.open(method, url, true);
+        xhr.setRequestHeader("Content-Type", "text/xml");
+        xhr.setRequestHeader("Authorization", "Basic " + Qt.btoa(settings.username + ":" + settings.token));
+        if(method === "post" || method === "put") {
             xhr.send(data);
-        } else {
-            xhr.open('GET', url, true);
-            xhr.setRequestHeader("Content-Type", "text/xml");
-            xhr.setRequestHeader("Authorization", "Basic " + Qt.btoa(settings.username + ":" + settings.token));
+        }
+        else {
             xhr.send('');
         }
     }

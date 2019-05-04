@@ -137,7 +137,7 @@
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="42"/>
         <location filename="../qml/pages/SettingsPage.qml" line="43"/>
-        <source>Token or password</source>
+        <source>Password</source>
         <translation>Salasana</translation>
     </message>
 </context>
@@ -149,25 +149,50 @@
         <translation>Päivitä</translation>
     </message>
     <message>
-        <location filename="../qml/pages/TaskList.qml" line="33"/>
+        <location filename="../qml/pages/TaskList.qml" line="35"/>
         <source>Task list</source>
         <translation>Tehtävälista</translation>
     </message>
     <message>
-        <location filename="../qml/pages/TaskList.qml" line="38"/>
+        <location filename="../qml/pages/TaskList.qml" line="40"/>
         <source>Nothing here</source>
         <translation>Tyhjää täynnä</translation>
     </message>
     <message>
-        <location filename="../qml/pages/TaskList.qml" line="39"/>
+        <location filename="../qml/pages/TaskList.qml" line="41"/>
         <source>Check your settings</source>
         <translation>Tarkista asetuksesi</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/TaskList.qml" line="55"/>
+        <source>Marking as done</source>
+        <translation>Merkitään tehdyksi</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/TaskList.qml" line="126"/>
+        <source>Task %1 set done.</source>
+        <translation>Tehtävä %1 merkitty tehdyksi.</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/TaskList.qml" line="127"/>
+        <source>Tracks task set done</source>
+        <translation>Tracks-tehtävä merkitty tehdyksi</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/TaskList.qml" line="130"/>
+        <source>Setting task %1 done failed.</source>
+        <translation>Tehtävän %1 merkitseminen tehdyksi epäonnistui.</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/TaskList.qml" line="131"/>
+        <source>Tracks task setting failed</source>
+        <translation>Tracks-tehtävän merkitseminen epäonnistui</translation>
     </message>
 </context>
 <context>
     <name>harbour-tracks</name>
     <message>
-        <location filename="../qml/harbour-tracks.qml" line="93"/>
+        <location filename="../qml/harbour-tracks.qml" line="89"/>
         <source>None</source>
         <translation>Ei mikään</translation>
     </message>

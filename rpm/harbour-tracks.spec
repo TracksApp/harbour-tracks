@@ -9,11 +9,10 @@ Name:       harbour-tracks
 # << macros
 
 Summary:    Tracks
-Version:    0.1
+Version:    1.0
 Release:    1
 Group:      Qt/Qt
-License:    LICENSE
-URL:        http://example.org/
+License:    GPL
 Source0:    %{name}-%{version}.tar.bz2
 Source100:  harbour-tracks.yaml
 Requires:   sailfishsilica-qt5 >= 0.10.9
@@ -24,7 +23,7 @@ BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  desktop-file-utils
 
 %description
-Short description of my Sailfish OS Application
+Allows you to quickly add new actions to your Tracks GTD todo application (www.getontracks.org)
 
 
 %prep
