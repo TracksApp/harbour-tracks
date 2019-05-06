@@ -9,11 +9,11 @@
     </message>
     <message>
         <source>Task description</source>
-        <translation><Description de la tâche/translation>
+        <translation>Description de la tâche</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation><Note/translation>
+        <translation>Note</translation>
     </message>
     <message>
         <source>Context</source>
