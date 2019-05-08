@@ -38,12 +38,8 @@ Dialog {
                 id: note
                 width: parent.width
                 height: 300
-
                 placeholderText: qsTr("Note")
                 label: qsTr("Note")
-
-                EnterKey.iconSource: "image://theme/icon-m-enter-close"
-                EnterKey.onClicked: focus = false
             }
 
             ComboBox {

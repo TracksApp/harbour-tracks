@@ -19,13 +19,13 @@ SOURCES += src/harbour-tracks.cpp
 DISTFILES += qml/harbour-tracks.qml \
     qml/cover/CoverPage.qml \
     rpm/harbour-tracks.changes.in \
-    rpm/harbour-tracks.changes.run.in \
     rpm/harbour-tracks.spec \
     rpm/harbour-tracks.yaml \
     translations/*.ts \
     harbour-tracks.desktop \
     qml/pages/AddForm.qml \
-    qml/pages/SettingsPage.qml
+    qml/pages/SettingsPage.qml \
+    rpm/harbour-tracks.changes.run
 
 SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172
 

@@ -21,55 +21,55 @@
         <translation>Muistiinpano</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="52"/>
+        <location filename="../qml/pages/AddForm.qml" line="49"/>
         <source>Context</source>
         <translation>Asiayhteys</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="67"/>
+        <location filename="../qml/pages/AddForm.qml" line="64"/>
         <source>Project</source>
         <translation>Projekti</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="81"/>
+        <location filename="../qml/pages/AddForm.qml" line="78"/>
         <source>Due date</source>
         <translation>Määräpäivä</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="82"/>
-        <location filename="../qml/pages/AddForm.qml" line="97"/>
+        <location filename="../qml/pages/AddForm.qml" line="79"/>
+        <location filename="../qml/pages/AddForm.qml" line="94"/>
+        <location filename="../qml/pages/AddForm.qml" line="123"/>
         <location filename="../qml/pages/AddForm.qml" line="126"/>
-        <location filename="../qml/pages/AddForm.qml" line="129"/>
         <source>Select</source>
         <translation>Valitse</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="96"/>
+        <location filename="../qml/pages/AddForm.qml" line="93"/>
         <source>Show from</source>
         <translation>Näytä alkaen</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="132"/>
+        <location filename="../qml/pages/AddForm.qml" line="129"/>
         <source>None</source>
         <translation>Ei mikään</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="141"/>
+        <location filename="../qml/pages/AddForm.qml" line="138"/>
         <source>Task %1 added to context %2.</source>
         <translation>Tehtävä %1 lisätty asiayhteyteen %2.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="142"/>
+        <location filename="../qml/pages/AddForm.qml" line="139"/>
         <source>Tracks task added</source>
         <translation>Tracks-tehtävä lisätty</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="145"/>
+        <location filename="../qml/pages/AddForm.qml" line="142"/>
         <source>Adding task %1 failed.</source>
         <translation>Tehtävän %1 lisääminen epäonnistui.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="146"/>
+        <location filename="../qml/pages/AddForm.qml" line="143"/>
         <source>Tracks task adding failed</source>
         <translation>Tracks-tehtävän lisääminen epäonnistui</translation>
     </message>
