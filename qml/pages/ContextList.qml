@@ -30,10 +30,19 @@ Page {
             }
         }
 
+        PushUpMenu {
+            MenuItem {
+                text: qsTr("Scroll to top")
+                onClicked: view.scrollToTop()
+            }
+        }
+
         width: parent.width;
         height: parent.height
 
         SilicaListView {
+            id: view
+
             header: PageHeader {
                 title: qsTr("Contexts")
             }

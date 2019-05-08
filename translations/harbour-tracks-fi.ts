@@ -15,61 +15,61 @@
         <translation>Tehtävän kuvaus</translation>
     </message>
     <message>
+        <location filename="../qml/pages/AddForm.qml" line="41"/>
         <location filename="../qml/pages/AddForm.qml" line="42"/>
-        <location filename="../qml/pages/AddForm.qml" line="43"/>
         <source>Note</source>
         <translation>Muistiinpano</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="49"/>
+        <location filename="../qml/pages/AddForm.qml" line="48"/>
         <source>Context</source>
         <translation>Asiayhteys</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="64"/>
+        <location filename="../qml/pages/AddForm.qml" line="63"/>
         <source>Project</source>
         <translation>Projekti</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="78"/>
+        <location filename="../qml/pages/AddForm.qml" line="77"/>
         <source>Due date</source>
         <translation>Määräpäivä</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="79"/>
-        <location filename="../qml/pages/AddForm.qml" line="94"/>
-        <location filename="../qml/pages/AddForm.qml" line="123"/>
-        <location filename="../qml/pages/AddForm.qml" line="126"/>
+        <location filename="../qml/pages/AddForm.qml" line="78"/>
+        <location filename="../qml/pages/AddForm.qml" line="93"/>
+        <location filename="../qml/pages/AddForm.qml" line="122"/>
+        <location filename="../qml/pages/AddForm.qml" line="125"/>
         <source>Select</source>
         <translation>Valitse</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="93"/>
+        <location filename="../qml/pages/AddForm.qml" line="92"/>
         <source>Show from</source>
         <translation>Näytä alkaen</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="129"/>
+        <location filename="../qml/pages/AddForm.qml" line="128"/>
         <source>None</source>
         <translation>Ei mikään</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="138"/>
+        <location filename="../qml/pages/AddForm.qml" line="137"/>
         <source>Task %1 added to context %2.</source>
         <translation>Tehtävä %1 lisätty asiayhteyteen %2.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="139"/>
+        <location filename="../qml/pages/AddForm.qml" line="138"/>
         <source>Tracks task added</source>
         <translation>Tracks-tehtävä lisätty</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="142"/>
+        <location filename="../qml/pages/AddForm.qml" line="141"/>
         <source>Adding task %1 failed.</source>
         <translation>Tehtävän %1 lisääminen epäonnistui.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="143"/>
+        <location filename="../qml/pages/AddForm.qml" line="142"/>
         <source>Tracks task adding failed</source>
         <translation>Tracks-tehtävän lisääminen epäonnistui</translation>
     </message>
@@ -92,17 +92,22 @@
         <translation>Päivitä</translation>
     </message>
     <message>
-        <location filename="../qml/pages/ContextList.qml" line="38"/>
+        <location filename="../qml/pages/ContextList.qml" line="35"/>
+        <source>Scroll to top</source>
+        <translation>Siirry alkuun</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/ContextList.qml" line="47"/>
         <source>Contexts</source>
         <translation>Asiayhteydet</translation>
     </message>
     <message>
-        <location filename="../qml/pages/ContextList.qml" line="43"/>
+        <location filename="../qml/pages/ContextList.qml" line="52"/>
         <source>Nothing here</source>
         <translation>Tyhjää täynnä</translation>
     </message>
     <message>
-        <location filename="../qml/pages/ContextList.qml" line="44"/>
+        <location filename="../qml/pages/ContextList.qml" line="53"/>
         <source>Check your settings</source>
         <translation>Tarkista asetuksesi</translation>
     </message>
@@ -149,42 +154,47 @@
         <translation>Päivitä</translation>
     </message>
     <message>
-        <location filename="../qml/pages/TaskList.qml" line="35"/>
+        <location filename="../qml/pages/TaskList.qml" line="30"/>
+        <source>Scroll to top</source>
+        <translation>Siirry alkuun</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/TaskList.qml" line="42"/>
         <source>Task list</source>
         <translation>Tehtävälista</translation>
     </message>
     <message>
-        <location filename="../qml/pages/TaskList.qml" line="40"/>
+        <location filename="../qml/pages/TaskList.qml" line="47"/>
         <source>Nothing here</source>
         <translation>Tyhjää täynnä</translation>
     </message>
     <message>
-        <location filename="../qml/pages/TaskList.qml" line="41"/>
+        <location filename="../qml/pages/TaskList.qml" line="48"/>
         <source>Check your settings</source>
         <translation>Tarkista asetuksesi</translation>
     </message>
     <message>
-        <location filename="../qml/pages/TaskList.qml" line="55"/>
+        <location filename="../qml/pages/TaskList.qml" line="62"/>
         <source>Marking as done</source>
         <translation>Merkitään tehdyksi</translation>
     </message>
     <message>
-        <location filename="../qml/pages/TaskList.qml" line="126"/>
+        <location filename="../qml/pages/TaskList.qml" line="133"/>
         <source>Task %1 set done.</source>
         <translation>Tehtävä %1 merkitty tehdyksi.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/TaskList.qml" line="127"/>
+        <location filename="../qml/pages/TaskList.qml" line="134"/>
         <source>Tracks task set done</source>
         <translation>Tracks-tehtävä merkitty tehdyksi</translation>
     </message>
     <message>
-        <location filename="../qml/pages/TaskList.qml" line="130"/>
+        <location filename="../qml/pages/TaskList.qml" line="137"/>
         <source>Setting task %1 done failed.</source>
         <translation>Tehtävän %1 merkitseminen tehdyksi epäonnistui.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/TaskList.qml" line="131"/>
+        <location filename="../qml/pages/TaskList.qml" line="138"/>
         <source>Tracks task setting failed</source>
         <translation>Tracks-tehtävän merkitseminen epäonnistui</translation>
     </message>

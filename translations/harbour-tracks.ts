@@ -82,6 +82,10 @@
         <source>Check your settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Scroll to top</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CoverPage</name>
@@ -145,6 +149,10 @@
     </message>
     <message>
         <source>Tracks task setting failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll to top</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

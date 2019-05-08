@@ -82,6 +82,10 @@
         <source>Check your settings</source>
         <translation>Vérifier les paramètres</translation>
     </message>
+    <message>
+        <source>Scroll to top</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CoverPage</name>
@@ -146,6 +150,10 @@
     <message>
         <source>Tracks task setting failed</source>
         <translation>Échec du réglage de la tâche</translation>
+    </message>
+    <message>
+        <source>Scroll to top</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
