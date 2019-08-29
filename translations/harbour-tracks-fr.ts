@@ -120,10 +120,6 @@
         <translation>Actualiser</translation>
     </message>
     <message>
-        <source>Task list</source>
-        <translation>Liste de tâches</translation>
-    </message>
-    <message>
         <source>Nothing here</source>
         <translation>Il n’y a rien ici</translation>
     </message>
@@ -154,6 +150,14 @@
     <message>
         <source>Scroll to top</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add task</source>
+        <translation>Ajouter une tâche</translation>
     </message>
 </context>
 <context>

@@ -120,10 +120,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Task list</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Nothing here</source>
         <translation type="unfinished"></translation>
     </message>
@@ -153,6 +149,14 @@
     </message>
     <message>
         <source>Scroll to top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actions in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add task</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -20,6 +20,10 @@ Page {
         // PullDownMenu and PushUpMenu must be declared in SilicaFlickable, SilicaListView or SilicaGridView
         PullDownMenu {
             MenuItem {
+                text: qsTr("Add task")
+                onClicked: pageStack.push(Qt.resolvedUrl("../pages/AddForm.qml"), {contextValue: context});
+            }
+            MenuItem {
                 text: qsTr("Refresh")
                 onClicked: getTasksFromTracks(context)
             }
@@ -39,7 +43,7 @@ Page {
             id: view
 
             header: PageHeader {
-                title: qsTr("Task list")
+                title: qsTr("Actions in %1").arg(context);
             }
 
             ViewPlaceholder {

@@ -4,6 +4,8 @@ import Sailfish.Silica 1.0
 Dialog {
     id: page
 
+    property variant contextValue: "";
+
     // The effective value will be restricted by ApplicationWindow.allowedOrientations
     allowedOrientations: Orientation.All
 
@@ -37,7 +39,6 @@ Dialog {
             TextArea {
                 id: note
                 width: parent.width
-                height: 300
                 placeholderText: qsTr("Note")
                 label: qsTr("Note")
             }
@@ -52,6 +53,15 @@ Dialog {
                         model: contextList
                         MenuItem {
                             text: name
+                        }
+                    }
+                }
+
+                Component.onCompleted: {
+                    console.log(contextValue);
+                    for(var i = 0; i < contextList.count; ++i) {
+                        if (contextList.get(i).name == contextValue) {
+                            context.currentIndex = i;
                         }
                     }
                 }
