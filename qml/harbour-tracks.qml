@@ -65,8 +65,13 @@ ApplicationWindow
                         if(tl.childNodes[j].nodeName === "id") {
                             item.contextId = tl.childNodes[j].childNodes[0].nodeValue;
                         }
+                        if(tl.childNodes[j].nodeName === "state") {
+                            item.state = tl.childNodes[j].childNodes[0].nodeValue;
+                        }
                     }
-                    contextList.append(item);
+                    if (item.state == 'active') {
+                        contextList.append(item);
+                    }
                 }
             }
         });

@@ -144,7 +144,6 @@ Page {
             m.previewSummary = m.summary
             m.previewBody = m.body
             m.publish()
-            getTasksFromTracks(context);
         });
     }
 }

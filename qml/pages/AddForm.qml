@@ -58,7 +58,6 @@ Dialog {
                 }
 
                 Component.onCompleted: {
-                    console.log(contextValue);
                     for(var i = 0; i < contextList.count; ++i) {
                         if (contextList.get(i).name == contextValue) {
                             context.currentIndex = i;
@@ -138,6 +137,7 @@ Dialog {
         if (project.value !== qsTr("None")) {
             requestData = requestData + "<project-id>" + getProjectIdFromName(project.value) + "</project-id>"
         }
+//        requestData = requestData + "<tags type=\"array\"><tag>testitagi</tag></tags>"
 
         requestData = requestData + "<description>" + description.text + "</description><notes>" + note.text + "</notes><context_id>" + contextId + "</context_id></todo>"
 
