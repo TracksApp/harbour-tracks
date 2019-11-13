@@ -110,6 +110,13 @@ Dialog {
                     })
                 }
             }
+
+            TextArea {
+                id: tagname
+                width: parent.width
+                placeholderText: qsTr("Tag")
+                label: qsTr("Tag")
+            }
         }
     }
 
@@ -137,8 +144,9 @@ Dialog {
         if (project.value !== qsTr("None")) {
             requestData = requestData + "<project-id>" + getProjectIdFromName(project.value) + "</project-id>"
         }
-//        requestData = requestData + "<tags type=\"array\"><tag>testitagi</tag></tags>"
-
+        if (tagname.text != "") {
+            requestData = requestData + "<tags><tag><name>" + tagname.text + "</name></tag></tags>"
+        }
         requestData = requestData + "<description>" + description.text + "</description><notes>" + note.text + "</notes><context_id>" + contextId + "</context_id></todo>"
 
         request("todos.xml", "post", requestData, function(doc) {

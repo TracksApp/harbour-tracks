@@ -55,6 +55,10 @@
         <source>Adding task %1 failed.</source>
         <translation>Échec de l’ajout de la tâche %1.</translation>
     </message>
+    <message>
+        <source>Tag</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ContextList</name>

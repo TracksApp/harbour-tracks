@@ -55,6 +55,10 @@
         <source>Adding task %1 failed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Tag</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ContextList</name>

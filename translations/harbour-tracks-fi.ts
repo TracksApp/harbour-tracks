@@ -38,8 +38,8 @@
     <message>
         <location filename="../qml/pages/AddForm.qml" line="87"/>
         <location filename="../qml/pages/AddForm.qml" line="102"/>
-        <location filename="../qml/pages/AddForm.qml" line="131"/>
-        <location filename="../qml/pages/AddForm.qml" line="134"/>
+        <location filename="../qml/pages/AddForm.qml" line="138"/>
+        <location filename="../qml/pages/AddForm.qml" line="141"/>
         <source>Select</source>
         <translation>Valitse</translation>
     </message>
@@ -49,27 +49,33 @@
         <translation>Näytä alkaen</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="137"/>
+        <location filename="../qml/pages/AddForm.qml" line="117"/>
+        <location filename="../qml/pages/AddForm.qml" line="118"/>
+        <source>Tag</source>
+        <translation>Avainsana</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AddForm.qml" line="144"/>
         <source>None</source>
         <translation>Ei mikään</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="147"/>
+        <location filename="../qml/pages/AddForm.qml" line="157"/>
         <source>Task %1 added to context %2.</source>
         <translation>Tehtävä %1 lisätty asiayhteyteen %2.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="148"/>
+        <location filename="../qml/pages/AddForm.qml" line="158"/>
         <source>Tracks task added</source>
         <translation>Tracks-tehtävä lisätty</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="151"/>
+        <location filename="../qml/pages/AddForm.qml" line="161"/>
         <source>Adding task %1 failed.</source>
         <translation>Tehtävän %1 lisääminen epäonnistui.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="152"/>
+        <location filename="../qml/pages/AddForm.qml" line="162"/>
         <source>Tracks task adding failed</source>
         <translation>Tracks-tehtävän lisääminen epäonnistui</translation>
     </message>
