@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>Task %1 added to context %2.</source>
-        <translation>Tâche %1 ajoutée au contexte %2</translation>
+        <translation>Tâche %1 ajoutée au contexte %2.</translation>
     </message>
     <message>
         <source>Adding task %1 failed.</source>
@@ -57,7 +57,7 @@
     </message>
     <message>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Étiquette</translation>
     </message>
 </context>
 <context>
@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>Task %1 set done.</source>
-        <translation>Tâche %1 marquée comme accomplie</translation>
+        <translation>Tâche %1 marquée comme accomplie.</translation>
     </message>
     <message>
         <source>Tracks task set done</source>
@@ -157,7 +157,7 @@
     </message>
     <message>
         <source>Actions in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Actions dans %1</translation>
     </message>
     <message>
         <source>Add task</source>
