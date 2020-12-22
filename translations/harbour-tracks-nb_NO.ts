@@ -5,170 +5,170 @@
     <name>AddForm</name>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til oppgave</translation>
     </message>
     <message>
         <source>Task description</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppgavebeskrivelse</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Notis</translation>
     </message>
     <message>
         <source>Context</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontekst</translation>
     </message>
     <message>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosjekt</translation>
     </message>
     <message>
         <source>Due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fristdato</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg</translation>
     </message>
     <message>
         <source>Show from</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis fra</translation>
     </message>
     <message>
         <source>Tracks task added</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks-oppgave lagt til</translation>
     </message>
     <message>
         <source>Tracks task adding failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks-oppgave kunne ikke legges til</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <source>Task %1 added to context %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppgave %1 lagt til kontekst %2.</translation>
     </message>
     <message>
         <source>Adding task %1 failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke legge til oppgave %1.</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Etikett</translation>
     </message>
 </context>
 <context>
     <name>ContextList</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Innstillinger</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til oppgave</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenoppfrisk</translation>
     </message>
     <message>
         <source>Contexts</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontekster</translation>
     </message>
     <message>
         <source>Nothing here</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingenting her</translation>
     </message>
     <message>
         <source>Check your settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjekk innstillingene dine</translation>
     </message>
     <message>
         <source>Scroll to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Rull til toppen</translation>
     </message>
 </context>
 <context>
     <name>CoverPage</name>
     <message>
         <source>Tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagre</translation>
     </message>
     <message>
         <source>Tracks base URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks-rotnettadresse</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Brukernavn</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Passord</translation>
     </message>
 </context>
 <context>
     <name>TaskList</name>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenoppfrisk</translation>
     </message>
     <message>
         <source>Nothing here</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingenting her</translation>
     </message>
     <message>
         <source>Check your settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjekk innstillingene dine</translation>
     </message>
     <message>
         <source>Marking as done</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerer som gjort</translation>
     </message>
     <message>
         <source>Task %1 set done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppgave %1 markert som ferdig.</translation>
     </message>
     <message>
         <source>Tracks task set done</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks-oppgave markert som ferdig.</translation>
     </message>
     <message>
         <source>Setting task %1 done failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klarte ikke å markere oppgave %1 som ferdig.</translation>
     </message>
     <message>
         <source>Tracks task setting failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tracks-oppgaveinnstilling mislyktes</translation>
     </message>
     <message>
         <source>Scroll to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Rull til toppen</translation>
     </message>
     <message>
         <source>Actions in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Handlinger i %1</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til oppgave</translation>
     </message>
 </context>
 <context>
     <name>harbour-tracks</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen</translation>
     </message>
 </context>
 </TS>
