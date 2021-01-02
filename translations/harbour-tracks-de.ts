@@ -1,174 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fr_FR">
+<TS version="2.1" language="de">
 <context>
     <name>AddForm</name>
     <message>
         <source>Add task</source>
-        <translation>Ajouter une tâche</translation>
+        <translation>Aufgabe hinzufügen</translation>
     </message>
     <message>
         <source>Task description</source>
-        <translation>Description de la tâche</translation>
+        <translation>Aufgabenbeschreibung</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation>Note</translation>
+        <translation>Notiz</translation>
     </message>
     <message>
         <source>Context</source>
-        <translation>Contexte</translation>
+        <translation>Kontext</translation>
     </message>
     <message>
         <source>Project</source>
-        <translation>Projet</translation>
+        <translation>Projekt</translation>
     </message>
     <message>
         <source>Due date</source>
-        <translation>Date limite</translation>
+        <translation>Fälligkeitsdatum</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Sélectionner</translation>
+        <translation>Auswählen</translation>
     </message>
     <message>
         <source>Show from</source>
-        <translation>Afficher depuis</translation>
+        <translation>Anzeigen ab</translation>
     </message>
     <message>
         <source>Tracks task added</source>
-        <translation>Suivis de tâches ajoutés</translation>
+        <translation>Tracks-Aufgabe hinzugefügt</translation>
     </message>
     <message>
         <source>Tracks task adding failed</source>
-        <translation>Échec de l’ajout des suivis de tâches</translation>
+        <translation>Hinzufügen von Tracks-Aufgabe fehlgeschlagen</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Aucune</translation>
+        <translation>Keine</translation>
     </message>
     <message>
         <source>Task %1 added to context %2.</source>
-        <translation>Tâche %1 ajoutée au contexte %2.</translation>
+        <translation>Aufgabe %1 wurde zu Kontext %2 hinzugefügt.</translation>
     </message>
     <message>
         <source>Adding task %1 failed.</source>
-        <translation>Échec de l’ajout de la tâche %1.</translation>
+        <translation>Fehler beim Hinzufügen von Aufgabe %1.</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation>Étiquette</translation>
+        <translation>Markierung</translation>
     </message>
 </context>
 <context>
     <name>ContextList</name>
     <message>
         <source>Settings</source>
-        <translation>Paramètres</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation>Ajouter une tâche</translation>
+        <translation>Aufgabe hinzufügen</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation>Actualiser</translation>
+        <translation>Aktualisieren</translation>
     </message>
     <message>
         <source>Contexts</source>
-        <translation>Contextes</translation>
+        <translation>Kontexte</translation>
     </message>
     <message>
         <source>Nothing here</source>
-        <translation>Il n’y a rien ici</translation>
+        <translation>Nichts hier</translation>
     </message>
     <message>
         <source>Check your settings</source>
-        <translation>Vérifier les paramètres</translation>
+        <translation>Überprüfen Sie die Einstellungen</translation>
     </message>
     <message>
         <source>Scroll to top</source>
-        <translation>Remonter</translation>
+        <translation>Nach oben blättern</translation>
     </message>
 </context>
 <context>
     <name>CoverPage</name>
     <message>
         <source>Tracks</source>
-        <translation>Suivis</translation>
+        <translation>Nachverfolgung</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Save</source>
-        <translation>Enregistrer</translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Tracks base URL</source>
-        <translation>Suivi via URL</translation>
+        <translation>Tracks-Basis-URL</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Nom d’utilisateur</translation>
+        <translation>Benutzername</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Mot de passe</translation>
+        <translation>Passwort</translation>
     </message>
 </context>
 <context>
     <name>TaskList</name>
     <message>
         <source>Refresh</source>
-        <translation>Actualiser</translation>
+        <translation>Aktualisieren</translation>
     </message>
     <message>
         <source>Nothing here</source>
-        <translation>Il n’y a rien ici</translation>
+        <translation>Nichts hier</translation>
     </message>
     <message>
         <source>Check your settings</source>
-        <translation>Vérifier les paramètres</translation>
+        <translation>Überprüfen Sie die Einstellungen</translation>
     </message>
     <message>
         <source>Marking as done</source>
-        <translation>Marquer comme accomplie</translation>
+        <translation>Als erledigt markieren</translation>
     </message>
     <message>
         <source>Task %1 set done.</source>
-        <translation>Tâche %1 marquée comme accomplie.</translation>
+        <translation>Aufgabe %1 als erledigt markiert.</translation>
     </message>
     <message>
         <source>Tracks task set done</source>
-        <translation>Tâche marquée comme accomplie</translation>
+        <translation>Tracks-Aufgabe als erledigt markiert</translation>
     </message>
     <message>
         <source>Setting task %1 done failed.</source>
-        <translation>Le paramétrage de la tâche %1 a échoué.</translation>
+        <translation>Markieren von Aufgabe %1 fehlgeschlagen.</translation>
     </message>
     <message>
         <source>Tracks task setting failed</source>
-        <translation>Échec du réglage de la tâche</translation>
+        <translation>Einstellen der Tracks-Aufgabe fehlgeschlagen</translation>
     </message>
     <message>
         <source>Scroll to top</source>
-        <translation>Remonter</translation>
+        <translation>Nach oben blättern</translation>
     </message>
     <message>
         <source>Actions in %1</source>
-        <translation>Actions dans %1</translation>
+        <translation>Aktionen in %1</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation>Ajouter une tâche</translation>
+        <translation>Aufgabe hinzufügen</translation>
     </message>
 </context>
 <context>
     <name>harbour-tracks</name>
     <message>
         <source>None</source>
-        <translation>Aucune</translation>
+        <translation>Keine</translation>
     </message>
 </context>
 </TS>

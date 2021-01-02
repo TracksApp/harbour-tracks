@@ -1,174 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fr_FR">
+<TS version="2.1" language="nb_NO">
 <context>
     <name>AddForm</name>
     <message>
         <source>Add task</source>
-        <translation>Ajouter une tâche</translation>
+        <translation>Legg til oppgave</translation>
     </message>
     <message>
         <source>Task description</source>
-        <translation>Description de la tâche</translation>
+        <translation>Oppgavebeskrivelse</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation>Note</translation>
+        <translation>Notis</translation>
     </message>
     <message>
         <source>Context</source>
-        <translation>Contexte</translation>
+        <translation>Kontekst</translation>
     </message>
     <message>
         <source>Project</source>
-        <translation>Projet</translation>
+        <translation>Prosjekt</translation>
     </message>
     <message>
         <source>Due date</source>
-        <translation>Date limite</translation>
+        <translation>Fristdato</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Sélectionner</translation>
+        <translation>Velg</translation>
     </message>
     <message>
         <source>Show from</source>
-        <translation>Afficher depuis</translation>
+        <translation>Vis fra</translation>
     </message>
     <message>
         <source>Tracks task added</source>
-        <translation>Suivis de tâches ajoutés</translation>
+        <translation>Tracks-oppgave lagt til</translation>
     </message>
     <message>
         <source>Tracks task adding failed</source>
-        <translation>Échec de l’ajout des suivis de tâches</translation>
+        <translation>Tracks-oppgave kunne ikke legges til</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Aucune</translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <source>Task %1 added to context %2.</source>
-        <translation>Tâche %1 ajoutée au contexte %2.</translation>
+        <translation>Oppgave %1 lagt til kontekst %2.</translation>
     </message>
     <message>
         <source>Adding task %1 failed.</source>
-        <translation>Échec de l’ajout de la tâche %1.</translation>
+        <translation>Kunne ikke legge til oppgave %1.</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation>Étiquette</translation>
+        <translation>Etikett</translation>
     </message>
 </context>
 <context>
     <name>ContextList</name>
     <message>
         <source>Settings</source>
-        <translation>Paramètres</translation>
+        <translation>Innstillinger</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation>Ajouter une tâche</translation>
+        <translation>Legg til oppgave</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation>Actualiser</translation>
+        <translation>Gjenoppfrisk</translation>
     </message>
     <message>
         <source>Contexts</source>
-        <translation>Contextes</translation>
+        <translation>Kontekster</translation>
     </message>
     <message>
         <source>Nothing here</source>
-        <translation>Il n’y a rien ici</translation>
+        <translation>Ingenting her</translation>
     </message>
     <message>
         <source>Check your settings</source>
-        <translation>Vérifier les paramètres</translation>
+        <translation>Sjekk innstillingene dine</translation>
     </message>
     <message>
         <source>Scroll to top</source>
-        <translation>Remonter</translation>
+        <translation>Rull til toppen</translation>
     </message>
 </context>
 <context>
     <name>CoverPage</name>
     <message>
         <source>Tracks</source>
-        <translation>Suivis</translation>
+        <translation>Tracks</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Save</source>
-        <translation>Enregistrer</translation>
+        <translation>Lagre</translation>
     </message>
     <message>
         <source>Tracks base URL</source>
-        <translation>Suivi via URL</translation>
+        <translation>Tracks-rotnettadresse</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Nom d’utilisateur</translation>
+        <translation>Brukernavn</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Mot de passe</translation>
+        <translation>Passord</translation>
     </message>
 </context>
 <context>
     <name>TaskList</name>
     <message>
         <source>Refresh</source>
-        <translation>Actualiser</translation>
+        <translation>Gjenoppfrisk</translation>
     </message>
     <message>
         <source>Nothing here</source>
-        <translation>Il n’y a rien ici</translation>
+        <translation>Ingenting her</translation>
     </message>
     <message>
         <source>Check your settings</source>
-        <translation>Vérifier les paramètres</translation>
+        <translation>Sjekk innstillingene dine</translation>
     </message>
     <message>
         <source>Marking as done</source>
-        <translation>Marquer comme accomplie</translation>
+        <translation>Markerer som gjort</translation>
     </message>
     <message>
         <source>Task %1 set done.</source>
-        <translation>Tâche %1 marquée comme accomplie.</translation>
+        <translation>Oppgave %1 markert som ferdig.</translation>
     </message>
     <message>
         <source>Tracks task set done</source>
-        <translation>Tâche marquée comme accomplie</translation>
+        <translation>Tracks-oppgave markert som ferdig.</translation>
     </message>
     <message>
         <source>Setting task %1 done failed.</source>
-        <translation>Le paramétrage de la tâche %1 a échoué.</translation>
+        <translation>Klarte ikke å markere oppgave %1 som ferdig.</translation>
     </message>
     <message>
         <source>Tracks task setting failed</source>
-        <translation>Échec du réglage de la tâche</translation>
+        <translation type="unfinished">Tracks-oppgaveinnstilling mislyktes</translation>
     </message>
     <message>
         <source>Scroll to top</source>
-        <translation>Remonter</translation>
+        <translation>Rull til toppen</translation>
     </message>
     <message>
         <source>Actions in %1</source>
-        <translation>Actions dans %1</translation>
+        <translation>Handlinger i %1</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation>Ajouter une tâche</translation>
+        <translation>Legg til oppgave</translation>
     </message>
 </context>
 <context>
     <name>harbour-tracks</name>
     <message>
         <source>None</source>
-        <translation>Aucune</translation>
+        <translation>Ingen</translation>
     </message>
 </context>
 </TS>
