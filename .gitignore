@@ -1,1 +1,5 @@
 *.user
+rpm/harbour-tracks.spec.*
+*.png
+*.xcf
+harbour-tracks.pro.user.*

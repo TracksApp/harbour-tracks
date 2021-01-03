@@ -9,7 +9,7 @@ Name:       harbour-tracks
 # << macros
 
 Summary:    Tracks
-Version:    1.0.4
+Version:    0
 Release:    1
 Group:      Qt/Qt
 License:    GPL

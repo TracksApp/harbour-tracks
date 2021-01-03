@@ -120,8 +120,4 @@ ApplicationWindow
             }
         }
     }
-
-    Component.onCompleted: {
-        var m = messageNotification.createObject(null);
-    }
 }

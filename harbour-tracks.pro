@@ -23,17 +23,15 @@ DISTFILES += qml/harbour-tracks.qml \
     rpm/harbour-tracks.yaml \
     translations/*.ts \
     harbour-tracks.desktop \
-    qml/pages/AddForm.qml \
-    qml/pages/SettingsPage.qml \
     rpm/harbour-tracks.changes.run
 
 SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172
 
-# to disable building translations every time, comment out the
-# following CONFIG line
 CONFIG += sailfishapp_i18n
 
-TRANSLATIONS += translations/harbour-tracks-fi.ts
-TRANSLATIONS += translations/harbour-tracks-fr.ts
+TRANSLATIONS += translations/harbour-tracks-fi.ts \
+    translations/harbour-tracks-fr.ts \
+    translations/harbour-tracks-de.ts \
+    translations/harbour-tracks-nb_NO.ts \
 
 HEADERS +=
