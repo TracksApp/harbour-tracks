@@ -5,170 +5,170 @@
     <name>AddForm</name>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Görev ekle</translation>
     </message>
     <message>
         <source>Task description</source>
-        <translation type="unfinished"></translation>
+        <translation>Görev tanımı</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Not</translation>
     </message>
     <message>
         <source>Context</source>
-        <translation type="unfinished"></translation>
+        <translation>İçerik</translation>
     </message>
     <message>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Proje</translation>
     </message>
     <message>
         <source>Due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitiş tarihi</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Seç</translation>
     </message>
     <message>
         <source>Show from</source>
-        <translation type="unfinished"></translation>
+        <translation>Şuradan göster</translation>
     </message>
     <message>
         <source>Tracks task added</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks görevi eklendi</translation>
     </message>
     <message>
         <source>Tracks task adding failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tacks görevi ekleme işlemi başarısız</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Yok</translation>
     </message>
     <message>
         <source>Task %1 added to context %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1. görev %2 içeriğine eklendi.</translation>
     </message>
     <message>
         <source>Adding task %1 failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 görevini ekleme işlemi başarısız.</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiket</translation>
     </message>
 </context>
 <context>
     <name>ContextList</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Görev ekle</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Contexts</source>
-        <translation type="unfinished"></translation>
+        <translation>İçerikler</translation>
     </message>
     <message>
         <source>Nothing here</source>
-        <translation type="unfinished"></translation>
+        <translation>Burada bir şey bulunmuyor</translation>
     </message>
     <message>
         <source>Check your settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayarlarınızı kontrol edin</translation>
     </message>
     <message>
         <source>Scroll to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Yukarı kaydır</translation>
     </message>
 </context>
 <context>
     <name>CoverPage</name>
     <message>
         <source>Tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Tracks base URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks base URL&apos;si</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanıcı adı</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Şifre</translation>
     </message>
 </context>
 <context>
     <name>TaskList</name>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Nothing here</source>
-        <translation type="unfinished"></translation>
+        <translation>Burada bir şey bulunmuyor</translation>
     </message>
     <message>
         <source>Check your settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayarlarınızı kontrol edin</translation>
     </message>
     <message>
         <source>Marking as done</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitmiş olarak işaretle</translation>
     </message>
     <message>
         <source>Task %1 set done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Görev %1&apos;i bitmiş olarak işaretle.</translation>
     </message>
     <message>
         <source>Tracks task set done</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks görev seti tamamlandı</translation>
     </message>
     <message>
         <source>Setting task %1 done failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 görevinin ayarlanması başarısız.</translation>
     </message>
     <message>
         <source>Tracks task setting failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks görev ayarı başarısız</translation>
     </message>
     <message>
         <source>Scroll to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Yukarı kaydır</translation>
     </message>
     <message>
         <source>Actions in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1&apos;deki hareketler</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Görev ekle</translation>
     </message>
 </context>
 <context>
     <name>harbour-tracks</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Yok</translation>
     </message>
 </context>
 </TS>
