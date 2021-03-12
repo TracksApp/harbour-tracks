@@ -5,170 +5,170 @@
     <name>AddForm</name>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить задачу</translation>
     </message>
     <message>
         <source>Task description</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание задачи</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Заметка</translation>
     </message>
     <message>
         <source>Context</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекст</translation>
     </message>
     <message>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Проект</translation>
     </message>
     <message>
         <source>Due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Срок сдачи</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать</translation>
     </message>
     <message>
         <source>Show from</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать форму</translation>
     </message>
     <message>
         <source>Tracks task added</source>
-        <translation type="unfinished"></translation>
+        <translation>Задача добавлена</translation>
     </message>
     <message>
         <source>Tracks task adding failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось добавить задачу</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Заметка</translation>
     </message>
     <message>
         <source>Task %1 added to context %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Задача %1 добавлена в контекст %2.</translation>
     </message>
     <message>
         <source>Adding task %1 failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось добавить задачу %1 .</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Метка</translation>
     </message>
 </context>
 <context>
     <name>ContextList</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить задачу</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <source>Contexts</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекст</translation>
     </message>
     <message>
         <source>Nothing here</source>
-        <translation type="unfinished"></translation>
+        <translation>Здесь пусто</translation>
     </message>
     <message>
         <source>Check your settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверьте настройки</translation>
     </message>
     <message>
         <source>Scroll to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Пролистать наверх</translation>
     </message>
 </context>
 <context>
     <name>CoverPage</name>
     <message>
         <source>Tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Tracks base URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL-адрес Tracks</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя пользователя</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль</translation>
     </message>
 </context>
 <context>
     <name>TaskList</name>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <source>Nothing here</source>
-        <translation type="unfinished"></translation>
+        <translation>Здесь пусто</translation>
     </message>
     <message>
         <source>Check your settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверьте настройки</translation>
     </message>
     <message>
         <source>Marking as done</source>
-        <translation type="unfinished"></translation>
+        <translation>Пометить как выполнено</translation>
     </message>
     <message>
         <source>Task %1 set done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Здача %1 помечена выполненной.</translation>
     </message>
     <message>
         <source>Tracks task set done</source>
-        <translation type="unfinished"></translation>
+        <translation>Задача помечена выполненной</translation>
     </message>
     <message>
         <source>Setting task %1 done failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пометка задачи %1 выполненной не удалась.</translation>
     </message>
     <message>
         <source>Tracks task setting failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение задачи не удалось</translation>
     </message>
     <message>
         <source>Scroll to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Пролистать наверх</translation>
     </message>
     <message>
         <source>Actions in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Действия в %1</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить задачу</translation>
     </message>
 </context>
 <context>
     <name>harbour-tracks</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
 </context>
 </TS>
