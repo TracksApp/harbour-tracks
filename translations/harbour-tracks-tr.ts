@@ -5,55 +5,55 @@
     <name>AboutPage</name>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakkında</translation>
     </message>
     <message>
         <source>Tracks</source>
-        <translation type="unfinished">Tracks</translation>
+        <translation>Tracks</translation>
     </message>
     <message>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sürüm %1</translation>
     </message>
     <message>
         <source>Tracks is a simple client for the Tracks todo application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks, Tracks yapılacaklar listesi uygulaması için basit bir istemcidir.</translation>
     </message>
     <message>
         <source>Thanking:</source>
-        <translation type="unfinished"></translation>
+        <translation>Teşekkürler:</translation>
     </message>
     <message>
         <source>– J. Lavoie (German and French translation)</source>
-        <translation type="unfinished"></translation>
+        <translation>– J. Lavoie (Almanca ve Fransızca çevirisi)</translation>
     </message>
     <message>
         <source>– Allan Nordhøy (Norwegian Bokmål translation)</source>
-        <translation type="unfinished"></translation>
+        <translation>– Allan Nordhøy (Bokmål Norveççe çevirisi)</translation>
     </message>
     <message>
         <source>– Алексей Свистунов (Russian translation)</source>
-        <translation type="unfinished"></translation>
+        <translation>– Алексей Свистунов (Rusça çevirisi)</translation>
     </message>
     <message>
         <source>– Burak Hüseyin Ekseli (Turkish translation)</source>
-        <translation type="unfinished"></translation>
+        <translation>– Burak Hüseyin Ekseli (Türkçe çevirisi)</translation>
     </message>
     <message>
         <source>GitHub (source codes and issues)</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub (kaynak kodları ve sorunlar)</translation>
     </message>
     <message>
         <source>Hosted Tracks application</source>
-        <translation type="unfinished"></translation>
+        <translation>Barındırılan Tracks uygulaması</translation>
     </message>
     <message>
         <source>Tracks web page</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks web sayfası</translation>
     </message>
     <message>
         <source>– Jyri-Petteri ”ZeiP” Paloposki (author)</source>
-        <translation type="unfinished"></translation>
+        <translation>– Jyri-Petteri ”ZeiP” Paloposki (yazar)</translation>
     </message>
 </context>
 <context>
@@ -147,7 +147,7 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakkında</translation>
     </message>
 </context>
 <context>
