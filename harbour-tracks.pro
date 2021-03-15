@@ -18,6 +18,7 @@ SOURCES += src/harbour-tracks.cpp
 
 DISTFILES += qml/harbour-tracks.qml \
     qml/cover/CoverPage.qml \
+    qml/pages/AboutPage.qml \
     rpm/harbour-tracks.changes.in \
     rpm/harbour-tracks.spec \
     rpm/harbour-tracks.yaml \
@@ -33,5 +34,7 @@ TRANSLATIONS += translations/harbour-tracks-fi.ts \
     translations/harbour-tracks-fr.ts \
     translations/harbour-tracks-de.ts \
     translations/harbour-tracks-nb_NO.ts \
+    translations/harbour-tracks-tr.ts \
+    translations/harbour-tracks-ru.ts \
 
 HEADERS +=

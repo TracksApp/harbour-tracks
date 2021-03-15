@@ -9,6 +9,8 @@ ApplicationWindow
 {
     id: mainWindow
 
+    property string version: "1.0.6"
+
     initialPage: Component { ContextList { } }
     cover: Qt.resolvedUrl("cover/CoverPage.qml")
     allowedOrientations: defaultAllowedOrientations

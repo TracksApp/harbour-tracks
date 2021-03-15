@@ -12,7 +12,8 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
-* Sun Apr 13 2014 Jack Tar <jack.tar@example.com> 0.0.1-1
-- Scrubbed the deck
-- Hoisted the sails
-
+* Mon Mar 15 2021 Jyri-Petteri Paloposki <jyri-petteri.paloposki@iki.fi> 1.0.6
+- Added translations:
+  - Russian – thanks to Алексей Свистунов
+  – Turkish – thanks to Burak Hüseyin Ekseli
+- Added an about page with credits

@@ -2,6 +2,61 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="nb_NO">
 <context>
+    <name>AboutPage</name>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tracks</source>
+        <translation type="unfinished">Tracks</translation>
+    </message>
+    <message>
+        <source>Version %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tracks is a simple client for the Tracks todo application.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thanking:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>– J. Lavoie (German and French translation)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>– Allan Nordhøy (Norwegian Bokmål translation)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>– Алексей Свистунов (Russian translation)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>– Burak Hüseyin Ekseli (Turkish translation)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GitHub (source codes and issues)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hosted Tracks application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tracks web page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>– Jyri-Petteri ”ZeiP” Paloposki (author)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AddForm</name>
     <message>
         <source>Add task</source>
@@ -89,6 +144,10 @@
     <message>
         <source>Scroll to top</source>
         <translation>Rull til toppen</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

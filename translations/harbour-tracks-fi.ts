@@ -2,6 +2,74 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="fi_FI">
 <context>
+    <name>AboutPage</name>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="15"/>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="27"/>
+        <source>Tracks</source>
+        <translation type="unfinished">Tracks</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="34"/>
+        <source>Version %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="41"/>
+        <source>Tracks is a simple client for the Tracks todo application.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="48"/>
+        <source>Thanking:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="49"/>
+        <source>– Jyri-Petteri ”ZeiP” Paloposki (author)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="50"/>
+        <source>– J. Lavoie (German and French translation)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="51"/>
+        <source>– Allan Nordhøy (Norwegian Bokmål translation)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="52"/>
+        <source>– Алексей Свистунов (Russian translation)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="53"/>
+        <source>– Burak Hüseyin Ekseli (Turkish translation)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="57"/>
+        <source>Hosted Tracks application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="62"/>
+        <source>Tracks web page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="67"/>
+        <source>GitHub (source codes and issues)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AddForm</name>
     <message>
         <location filename="../qml/pages/AddForm.qml" line="24"/>
@@ -84,36 +152,41 @@
     <name>ContextList</name>
     <message>
         <location filename="../qml/pages/ContextList.qml" line="17"/>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/ContextList.qml" line="21"/>
         <source>Settings</source>
         <translation>Asetukset</translation>
     </message>
     <message>
-        <location filename="../qml/pages/ContextList.qml" line="21"/>
+        <location filename="../qml/pages/ContextList.qml" line="25"/>
         <source>Add task</source>
         <translation>Lisää tehtävä</translation>
     </message>
     <message>
-        <location filename="../qml/pages/ContextList.qml" line="25"/>
+        <location filename="../qml/pages/ContextList.qml" line="29"/>
         <source>Refresh</source>
         <translation>Päivitä</translation>
     </message>
     <message>
-        <location filename="../qml/pages/ContextList.qml" line="35"/>
+        <location filename="../qml/pages/ContextList.qml" line="39"/>
         <source>Scroll to top</source>
         <translation>Siirry alkuun</translation>
     </message>
     <message>
-        <location filename="../qml/pages/ContextList.qml" line="47"/>
+        <location filename="../qml/pages/ContextList.qml" line="51"/>
         <source>Contexts</source>
         <translation>Asiayhteydet</translation>
     </message>
     <message>
-        <location filename="../qml/pages/ContextList.qml" line="52"/>
+        <location filename="../qml/pages/ContextList.qml" line="56"/>
         <source>Nothing here</source>
         <translation>Tyhjää täynnä</translation>
     </message>
     <message>
-        <location filename="../qml/pages/ContextList.qml" line="53"/>
+        <location filename="../qml/pages/ContextList.qml" line="57"/>
         <source>Check your settings</source>
         <translation>Tarkista asetuksesi</translation>
     </message>
@@ -213,7 +286,7 @@
 <context>
     <name>harbour-tracks</name>
     <message>
-        <location filename="../qml/harbour-tracks.qml" line="94"/>
+        <location filename="../qml/harbour-tracks.qml" line="96"/>
         <source>None</source>
         <translation>Ei mikään</translation>
     </message>
