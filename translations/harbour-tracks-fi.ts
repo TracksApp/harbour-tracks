@@ -6,67 +6,67 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="15"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietoja</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="27"/>
         <source>Tracks</source>
-        <translation type="unfinished">Tracks</translation>
+        <translation>Tracks</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="34"/>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versio %1</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="41"/>
         <source>Tracks is a simple client for the Tracks todo application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks on yksinkertainen Tracks-tehtäväsovelluksen asiakasohjelma.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="48"/>
         <source>Thanking:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiitokset:</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="49"/>
         <source>– Jyri-Petteri ”ZeiP” Paloposki (author)</source>
-        <translation type="unfinished"></translation>
+        <translation>– Jyri-Petteri ”ZeiP” Paloposki (tekijä)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="50"/>
         <source>– J. Lavoie (German and French translation)</source>
-        <translation type="unfinished"></translation>
+        <translation>– J. Lavoie (saksan- ja ranskankieliset käännökset)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="51"/>
         <source>– Allan Nordhøy (Norwegian Bokmål translation)</source>
-        <translation type="unfinished"></translation>
+        <translation>– Allan Nordhøy (norjankielinen käännös)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="52"/>
         <source>– Алексей Свистунов (Russian translation)</source>
-        <translation type="unfinished"></translation>
+        <translation>– Алексей Свистунов (venäjänkielinen käännös)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="53"/>
         <source>– Burak Hüseyin Ekseli (Turkish translation)</source>
-        <translation type="unfinished"></translation>
+        <translation>– Burak Hüseyin Ekseli (turkinkielinen käännös)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="57"/>
         <source>Hosted Tracks application</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylläpidetty Tracks-palvelu</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="62"/>
         <source>Tracks web page</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracksin verkkosivusto</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
         <source>GitHub (source codes and issues)</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub (lähdekoodi ja virheilmoitukset)</translation>
     </message>
 </context>
 <context>
@@ -153,7 +153,7 @@
     <message>
         <location filename="../qml/pages/ContextList.qml" line="17"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietoja</translation>
     </message>
     <message>
         <location filename="../qml/pages/ContextList.qml" line="21"/>
