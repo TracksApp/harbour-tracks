@@ -5,55 +5,55 @@
     <name>AboutPage</name>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>О программе</translation>
     </message>
     <message>
         <source>Tracks</source>
-        <translation type="unfinished">Tracks</translation>
+        <translation>Tracks</translation>
     </message>
     <message>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Версия %1</translation>
     </message>
     <message>
         <source>Tracks is a simple client for the Tracks todo application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tracks - простой клиент для менеджера задач Tracks.</translation>
     </message>
     <message>
         <source>Thanking:</source>
-        <translation type="unfinished"></translation>
+        <translation>Благодарности:</translation>
     </message>
     <message>
         <source>– J. Lavoie (German and French translation)</source>
-        <translation type="unfinished"></translation>
+        <translation>– J. Lavoie (немецкий и французский перевод)</translation>
     </message>
     <message>
         <source>– Allan Nordhøy (Norwegian Bokmål translation)</source>
-        <translation type="unfinished"></translation>
+        <translation>– Allan Nordhøy (норвежский &apos;букмол&apos; перевод)</translation>
     </message>
     <message>
         <source>– Алексей Свистунов (Russian translation)</source>
-        <translation type="unfinished"></translation>
+        <translation>– Алексей Свистунов (русский перевод)</translation>
     </message>
     <message>
         <source>– Burak Hüseyin Ekseli (Turkish translation)</source>
-        <translation type="unfinished"></translation>
+        <translation>– Burak Hüseyin Ekseli (турецкий перевод)</translation>
     </message>
     <message>
         <source>GitHub (source codes and issues)</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub (исходный код и проблемы)</translation>
     </message>
     <message>
         <source>Hosted Tracks application</source>
-        <translation type="unfinished"></translation>
+        <translation>Предустановленный менеджер задач Tracks</translation>
     </message>
     <message>
         <source>Tracks web page</source>
-        <translation type="unfinished"></translation>
+        <translation>Домашняя страница Tracks</translation>
     </message>
     <message>
         <source>– Jyri-Petteri ”ZeiP” Paloposki (author)</source>
-        <translation type="unfinished"></translation>
+        <translation>– Jyri-Petteri ”ZeiP” Paloposki (автор)</translation>
     </message>
 </context>
 <context>
@@ -100,7 +100,7 @@
     </message>
     <message>
         <source>None</source>
-        <translation>Заметка</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>Task %1 added to context %2.</source>
@@ -135,7 +135,7 @@
     </message>
     <message>
         <source>Nothing here</source>
-        <translation>Здесь пусто</translation>
+        <translation>Здесь ничего нет</translation>
     </message>
     <message>
         <source>Check your settings</source>
@@ -147,7 +147,7 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>О программе</translation>
     </message>
 </context>
 <context>
@@ -184,7 +184,7 @@
     </message>
     <message>
         <source>Nothing here</source>
-        <translation>Здесь пусто</translation>
+        <translation>Здесь ничего нет</translation>
     </message>
     <message>
         <source>Check your settings</source>
@@ -196,7 +196,7 @@
     </message>
     <message>
         <source>Task %1 set done.</source>
-        <translation>Здача %1 помечена выполненной.</translation>
+        <translation>Задача %1 помечена выполненной.</translation>
     </message>
     <message>
         <source>Tracks task set done</source>
@@ -204,7 +204,7 @@
     </message>
     <message>
         <source>Setting task %1 done failed.</source>
-        <translation>Пометка задачи %1 выполненной не удалась.</translation>
+        <translation>Не удалось пометить выполненной задачу %1.</translation>
     </message>
     <message>
         <source>Tracks task setting failed</source>
