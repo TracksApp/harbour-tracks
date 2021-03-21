@@ -80,7 +80,7 @@
     </message>
     <message>
         <source>Due date</source>
-        <translation>Срок сдачи</translation>
+        <translation>Выполнить до</translation>
     </message>
     <message>
         <source>Select</source>
@@ -108,7 +108,7 @@
     </message>
     <message>
         <source>Adding task %1 failed.</source>
-        <translation>Не удалось добавить задачу %1 .</translation>
+        <translation>Не удалось добавить задачу %1.</translation>
     </message>
     <message>
         <source>Tag</source>
