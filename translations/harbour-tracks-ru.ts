@@ -36,10 +36,6 @@
         <translation>– Алексей Свистунов (русский перевод)</translation>
     </message>
     <message>
-        <source>– Burak Hüseyin Ekseli (Turkish translation)</source>
-        <translation>– Burak Hüseyin Ekseli (турецкий перевод)</translation>
-    </message>
-    <message>
         <source>GitHub (source codes and issues)</source>
         <translation>GitHub (исходный код и проблемы)</translation>
     </message>
@@ -54,6 +50,10 @@
     <message>
         <source>– Jyri-Petteri ”ZeiP” Paloposki (author)</source>
         <translation>– Jyri-Petteri ”ZeiP” Paloposki (автор)</translation>
+    </message>
+    <message>
+        <source>– Burak Hüseyin Ekseli and Oğuz Ersen (Turkish translation)</source>
+        <translation type="unfinished">– Burak Hüseyin Ekseli and Oğuz Ersen (турецкий перевод)</translation>
     </message>
 </context>
 <context>

@@ -50,8 +50,8 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="53"/>
-        <source>– Burak Hüseyin Ekseli (Turkish translation)</source>
-        <translation>– Burak Hüseyin Ekseli (turkinkielinen käännös)</translation>
+        <source>– Burak Hüseyin Ekseli and Oğuz Ersen (Turkish translation)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="57"/>

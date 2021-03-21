@@ -50,7 +50,7 @@ Page {
 "\n" + qsTr("– J. Lavoie (German and French translation)") +
 "\n" + qsTr("– Allan Nordhøy (Norwegian Bokmål translation)") +
 "\n" + qsTr("– Алексей Свистунов (Russian translation)") +
-"\n" + qsTr("– Burak Hüseyin Ekseli (Turkish translation)")
+"\n" + qsTr("– Burak Hüseyin Ekseli and Oğuz Ersen (Turkish translation)")
             }
             Button {
                 anchors.horizontalCenter: parent.horizontalCenter

@@ -36,10 +36,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>– Burak Hüseyin Ekseli (Turkish translation)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>GitHub (source codes and issues)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -53,6 +49,10 @@
     </message>
     <message>
         <source>– Jyri-Petteri ”ZeiP” Paloposki (author)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>– Burak Hüseyin Ekseli and Oğuz Ersen (Turkish translation)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
