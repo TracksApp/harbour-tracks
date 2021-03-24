@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>– Burak Hüseyin Ekseli and Oğuz Ersen (Turkish translation)</source>
-        <translation type="unfinished">– Burak Hüseyin Ekseli and Oğuz Ersen (Türkçe çevirisi)</translation>
+        <translation>– Burak Hüseyin Ekseli ve Oğuz Ersen (Türkçe çevirisi)</translation>
     </message>
 </context>
 <context>

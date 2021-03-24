@@ -51,7 +51,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="53"/>
         <source>– Burak Hüseyin Ekseli and Oğuz Ersen (Turkish translation)</source>
-        <translation type="unfinished"></translation>
+        <translation>– Burak Hüseyin Ekseli ja Oğuz Ersen (turkinkielinen käännös)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="57"/>
