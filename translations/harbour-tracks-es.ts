@@ -5,170 +5,170 @@
     <name>AddForm</name>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar tarea</translation>
     </message>
     <message>
         <source>Task description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripción de tarea</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotar</translation>
     </message>
     <message>
         <source>Context</source>
-        <translation type="unfinished"></translation>
+        <translation>Contexto</translation>
     </message>
     <message>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyecto</translation>
     </message>
     <message>
         <source>Due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de vencimiento</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar</translation>
     </message>
     <message>
         <source>Show from</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar origen</translation>
     </message>
     <message>
         <source>Tracks task added</source>
-        <translation type="unfinished"></translation>
+        <translation>Pistas de tareas agregadas</translation>
     </message>
     <message>
         <source>Tracks task adding failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pistas de tareas agregadas erróneas</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <source>Task %1 added to context %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarea %1 agregada al contexto %2.</translation>
     </message>
     <message>
         <source>Adding task %1 failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregación de tarea %1 errónea.</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta</translation>
     </message>
 </context>
 <context>
     <name>ContextList</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar tarea</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Recargar</translation>
     </message>
     <message>
         <source>Contexts</source>
-        <translation type="unfinished"></translation>
+        <translation>Contexto</translation>
     </message>
     <message>
         <source>Nothing here</source>
-        <translation type="unfinished"></translation>
+        <translation>Nada aquí</translation>
     </message>
     <message>
         <source>Check your settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Compruebe sus parámetros</translation>
     </message>
     <message>
         <source>Scroll to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrastrar hasta la cima</translation>
     </message>
 </context>
 <context>
     <name>CoverPage</name>
     <message>
         <source>Tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pistas</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <source>Tracks base URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL de pistas base</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>ID Usuario</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Contraseña</translation>
     </message>
 </context>
 <context>
     <name>TaskList</name>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Recargar</translation>
     </message>
     <message>
         <source>Nothing here</source>
-        <translation type="unfinished"></translation>
+        <translation>Nada más</translation>
     </message>
     <message>
         <source>Check your settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Compruebe sus parámetros</translation>
     </message>
     <message>
         <source>Marking as done</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar como hecho</translation>
     </message>
     <message>
         <source>Task %1 set done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarea %1 hecha.</translation>
     </message>
     <message>
         <source>Tracks task set done</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarea de pista fijada a terminada</translation>
     </message>
     <message>
         <source>Setting task %1 done failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de tarea %1 hecha errónea.</translation>
     </message>
     <message>
         <source>Tracks task setting failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de tarea de pistas erróneas</translation>
     </message>
     <message>
         <source>Scroll to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrastrar hasta cima</translation>
     </message>
     <message>
         <source>Actions in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Acciones en %1</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar tarea</translation>
     </message>
 </context>
 <context>
     <name>harbour-tracks</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
 </context>
 </TS>
