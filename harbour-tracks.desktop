@@ -11,3 +11,8 @@ Name=Tracks
 # a different app name in German locale (de).
 Name[fi_FI]=Tracks
 Name[fr_FR]=Tracks
+
+[X-Sailjail]
+OrganizationName=zeip.eu
+ApplicationName=Tracks
+Permissions=Internet
