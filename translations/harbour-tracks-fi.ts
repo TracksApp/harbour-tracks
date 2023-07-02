@@ -128,22 +128,22 @@
         <translation>Ei mikään</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="155"/>
+        <location filename="../qml/pages/AddForm.qml" line="159"/>
         <source>Task %1 added to context %2.</source>
         <translation>Tehtävä %1 lisätty asiayhteyteen %2.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="156"/>
+        <location filename="../qml/pages/AddForm.qml" line="160"/>
         <source>Tracks task added</source>
         <translation>Tracks-tehtävä lisätty</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="159"/>
+        <location filename="../qml/pages/AddForm.qml" line="163"/>
         <source>Adding task %1 failed.</source>
         <translation>Tehtävän %1 lisääminen epäonnistui.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AddForm.qml" line="160"/>
+        <location filename="../qml/pages/AddForm.qml" line="164"/>
         <source>Tracks task adding failed</source>
         <translation>Tracks-tehtävän lisääminen epäonnistui</translation>
     </message>

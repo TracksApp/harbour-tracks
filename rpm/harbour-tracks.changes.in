@@ -12,6 +12,11 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Mon Jul 3 2023 Jyri-Petteri Paloposki <jyri-petteri.paloposki@iki.fi> 1.0.7
+- Added Sailjail metadata
+- Updated translations
+- Fix the notification to be shown when adding a task.
+
 * Mon Mar 15 2021 Jyri-Petteri Paloposki <jyri-petteri.paloposki@iki.fi> 1.0.6
 - Added translations:
   - Russian – thanks to Алексей Свистунов

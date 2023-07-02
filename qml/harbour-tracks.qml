@@ -28,11 +28,11 @@ ApplicationWindow
 
     ListModel { id: projectList }
 
-    function request(params, method, data, callback) {
+    function request(params, method, data, callback, fields) {
         var xhr = new XMLHttpRequest();
-        xhr.onreadystatechange = (function(mxhr) {
-            return function() { if(mxhr.readyState === XMLHttpRequest.DONE) { callback(mxhr); } }
-        })(xhr);
+        xhr.onreadystatechange = (function(mxhr, messageNotification, fields) {
+            return function() { if(mxhr.readyState === XMLHttpRequest.DONE) { callback(mxhr, messageNotification, fields); } }
+        })(xhr, messageNotification, fields);
 
         // Check that the URL ends in slash.
         var url = settings.base_url
@@ -53,7 +53,7 @@ ApplicationWindow
     }
 
     function getContextsFromTracks() {
-        request("contexts.xml", "get", "", function(doc) {
+        request("contexts.xml", "get", "", function(doc, messageNotification) {
             var e = doc.responseXML.documentElement;
             contextList.clear();
             for(var i = 0; i < e.childNodes.length; i++) {
@@ -89,7 +89,7 @@ ApplicationWindow
     }
 
     function getProjectsFromTracks() {
-        request("projects.xml", "get", "", function(doc) {
+        request("projects.xml", "get", "", function(doc, messageNotification) {
             var e = doc.responseXML.documentElement;
             projectList.clear();
             var emptyItem = {}

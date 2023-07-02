@@ -149,19 +149,23 @@ Dialog {
         }
         requestData = requestData + "<description>" + description.text + "</description><notes>" + note.text + "</notes><context_id>" + contextId + "</context_id></todo>"
 
-        request("todos.xml", "post", requestData, function(doc) {
-            var m = messageNotification.createObject(null);
+        var fields = {
+            "description": description.text,
+            "context": context.value
+        };
+        request("todos.xml", "post", requestData, function(doc, notification, fields) {
+            var m = notification.createObject(null);
             if (doc.status === 201) {
-                m.body = qsTr("Task %1 added to context %2.").arg(description.text).arg(context.value);
+                m.body = qsTr("Task %1 added to context %2.").arg(fields.description).arg(fields.context);
                 m.summary = qsTr("Tracks task added")
             }
             else {
-                m.body = qsTr("Adding task %1 failed.").arg(description.text);
+                m.body = qsTr("Adding task %1 failed.").arg(fields.description);
                 m.summary = qsTr("Tracks task adding failed")
             }
             m.previewSummary = m.summary
             m.previewBody = m.body
             m.publish()
-        });
+        }, fields);
     }
 }
